@@ -1,0 +1,11 @@
+streamlit
+langchain
+opencv-python
+pytesseract
+torch
+transformers
+gtts
+ultralytics
+pillow
+google-generativeai
+yolov5
